@@ -1,0 +1,32 @@
+.thumbnail img {
+	width: 100%;
+}
+
+.thumbnail {
+	padding: 0;
+}
+
+.thumbnail .caption-full {
+	padding: 9px;
+}
+
+.delete-form {
+	display: inline;
+}
+
+.checked {
+	color: orange;
+}
+
+#searchform  {
+	margin-left: 35px;
+	margin-right: 20px;
+}
+
+#new-text {
+	height: 240px;
+}
+
+#edit-text {
+	height: 240px;
+}
